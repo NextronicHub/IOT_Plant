@@ -5,11 +5,13 @@
 IOT_Plant.ino
 Post data to data.nextronic's  stream server, using
 an ESP8266.
+
 Ahmed Kousta @ Nextronic
 Date:  29/08/2014
 
 This sketch uses an ESP8266 to POST sensor readings to 
 nextronic's data logging streams (data.nextronic.ma). 
+
 A post will be sent every 3 seconds.
 
 Before uploading this sketch, there are a number of global vars
